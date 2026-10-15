@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeyadvaryana-creator.github.io/onyx-growth-partners/sitemap.xml
